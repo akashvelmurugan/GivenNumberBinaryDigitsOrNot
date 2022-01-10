@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class BinaryDigits {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
+
+
+		
 		
 		System.out.println("Enter The Value :");
 
